@@ -43,6 +43,6 @@ Where the first value is a double-digit integer indicating number of vertices, a
 ```
 A G 10
 ```
-Represents a directed edge from vertex 'A' to vertex 'G' of weight 10. All vertices must be denoted by a capital English letter. Note that if the number of vertices is less than ten, the first number in the text file must still be at least ten.
+Represents a directed edge from vertex 'A' to vertex 'G' of weight 10. All vertices must be denoted by a capital English letter.
 
 Will print the shortest path from vertex 'A' to vertex 'B' and the total weight of said path.
